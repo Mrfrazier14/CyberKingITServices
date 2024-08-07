@@ -44,7 +44,7 @@ nav ul li a {
     color: green;
 }
 
-.cta-button {
+.cta-button, .review-button {
     background-color: gold;
     color: green;
     padding: 10px 20px;
@@ -73,3 +73,13 @@ footer {
     margin: 0 10px;
     text-decoration: none;
 }
+
+#reviews {
+    margin-top: 20px;
+}
+
+.review-button {
+    display: inline-block;
+    margin-top: 10px;
+}
+
